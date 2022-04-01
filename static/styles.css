@@ -99,7 +99,7 @@ body{
 }
 
 /* Footer */
-.footer{
+footer{
 	flex-shrink: 0;
 	position: relative;
 	padding: 20px;
